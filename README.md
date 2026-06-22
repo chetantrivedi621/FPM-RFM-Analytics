@@ -1,5 +1,7 @@
 # 🛒 Product Associativity Analysis (Apriori & FP-Growth)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enhanced-apriori-fp-growth.streamlit.app)
+
 ## Overview
 This project performs **Market Basket Analysis** using Apriori and FP-Growth algorithms.  
 It is built using **Streamlit** and provides an interactive dashboard for generating association rules and visual insights.
