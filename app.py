@@ -16,7 +16,7 @@ import tempfile
 import streamlit.components.v1 as components
 
 # ---------------- PAGE SETUP & INJECT CSS ---------------- #
-st.set_page_config(page_title="Product Analysis Dashboard", layout="wide")
+st.set_page_config(page_title="FPM-RFM Analytics", layout="wide")
 
 # Custom light-theme minimalist CSS injection
 st.markdown("""
@@ -112,7 +112,7 @@ def load_data():
 df = load_data()
 
 # ---------------- SIDEBAR ---------------- #
-st.sidebar.title("Product Analysis")
+st.sidebar.title("FPM-RFM Analytics")
 st.sidebar.caption("Configure filters and rules parameters below.")
 
 countries = sorted(df['Country'].unique())
