@@ -1,6 +1,6 @@
 # 🛒 FPM-RFM Analytics: Frequent Pattern Mining & RFM Customer Analysis
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enhanced-apriori-fp-growth.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fpm-rfm-analytics.streamlit.app/)
 
 ## Overview
 This project performs **Market Basket Analysis** using Apriori and FP-Growth algorithms.  
